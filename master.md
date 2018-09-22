@@ -5,4 +5,4 @@ bug 1.3
 
 
 
-test bug1.3
+statsh
